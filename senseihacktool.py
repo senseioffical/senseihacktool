@@ -96,7 +96,7 @@ while True:
     •    [7] Facebook Hesaplarından Bilgi Toplama    •
     •    [8] Mac Adresleri Hakkinda Bilgi Toplama    •
     •    [9] E-posta'dan Bilgi Toplama               •
-    •    [10] phishing Aracı
+    •    [10] phishing Aracı                         •
     •                                                •
     •    [x] Çıkış Yapmak İçin                       •
     •                                                •
