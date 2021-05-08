@@ -63,7 +63,7 @@ while True:
     print ("Yardımcı Paketler Kuruluyor...")
     os.system ("pkg install python -y")
     os.system ("pkg install python2 -y")
-    os.system ("pkg install python3-y")
+    os.system ("pkg install python3 -y")
     os.system ("pkg install curl -y")
     os.system ("pkg install php -y")
     os.system ("pkg install nano -y")
