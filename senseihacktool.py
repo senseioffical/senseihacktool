@@ -5,7 +5,7 @@
 import os 
 import sys
 import time 
-
+os.system ("apt update && apt upgrade")
 os.system ("clear")
 
 print ("""
